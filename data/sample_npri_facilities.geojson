@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "NPRI-1001",
+        "facility_name": "Sarnia Refinery Complex",
+        "company_name": "Imperial Oil Resources",
+        "naics_code": "324110",
+        "province": "ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4068,
+          42.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "NPRI-1002",
+        "facility_name": "Fort McMurray Bitumen Processing",
+        "company_name": "Syncrude Canada",
+        "naics_code": "211110",
+        "province": "AB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3803,
+          56.7264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "NPRI-1003",
+        "facility_name": "Raffinerie Jean-Gaulin",
+        "company_name": "Valero Energy",
+        "naics_code": "324110",
+        "province": "QC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1643,
+          46.8288
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "plume_id": "PLUME-2026-001",
+        "detection_timestamp": "2026-10-05T14:32:00Z",
+        "emission_rate_kg_h": 1420.5,
+        "uncertainty_kg_h": 95.0,
+        "source_sensor": "GHGSat-C3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.41,
+              42.972
+            ],
+            [
+              -82.4,
+              42.972
+            ],
+            [
+              -82.4,
+              42.98
+            ],
+            [
+              -82.41,
+              42.98
+            ],
+            [
+              -82.41,
+              42.972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plume_id": "PLUME-2026-002",
+        "detection_timestamp": "2026-10-06T10:15:00Z",
+        "emission_rate_kg_h": 3200.0,
+        "uncertainty_kg_h": 210.0,
+        "source_sensor": "Sentinel-5P"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.39,
+              56.72
+            ],
+            [
+              -111.37,
+              56.72
+            ],
+            [
+              -111.37,
+              56.735
+            ],
+            [
+              -111.39,
+              56.735
+            ],
+            [
+              -111.39,
+              56.72
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
